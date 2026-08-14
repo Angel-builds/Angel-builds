@@ -42,7 +42,7 @@ I am a Computer Science and Data Analytics student at Grambling State University
 
 ### ⚡ Data for Good Hackathon (Sponsored by JPMorgan Chase)
 *March 2025*
-*   Spearheaded a 6-person team to analyze socio-economic and demographic datasets.
+*   Worked in a 6-person team to analyze socio-economic and demographic datasets.
 *   Utilized data analytics to generate actionable, localized insights aimed at promoting community equity.
 
 ### 🤰 Maternal Health Equity Hackathon
@@ -60,15 +60,15 @@ I am a Computer Science and Data Analytics student at Grambling State University
 
 I believe in lifting others as I climb. Technology is empty without community, and these are the spaces where I pour my energy outside of building software:
 
-*   **ColorStack (Academic Co-Chair & Member):** Collaborated to organize technical workshops, mentorship paths, and guest lectures to boost internship success rates for underrepresented students.
-*   **AUC PreFreshman Experience:** Served as a **Research Mentor**, guiding the next generation of incoming STEM students through data science research methodologies.
-*   **Advocacy & Learning:** Proudly involved with *Breakthrough Tech*, *Girls Who Code*, and *HBCU VC Startup School*.
+*   **ColorStack @ Grambling (President,prev Academic Co-Chair & Member):** Collaborated to organize technical workshops, mentorship paths, and guest lectures to boost internship success rates for underrepresented students.
+*   **AUC PreFreshman Experience:** I have served as **2x** as a **Research Mentor**, guiding the next generation of incoming STEM students through data science research methodologies.
+*   **Advocacy & Learning:** I am also involved with *Breakthrough Tech*, *Girls Who Code*, and *HBCU VC Startup School*.
 
 ---
 
 ### 📚 What I'm Up To Outside of Code
 *   **Reading:** I'm a massive bookworm—ask me what I'm currently reading!
 *   **Sustainability:** Big advocate for second-market clothing and sustainable fashion.
-*   **Writing:** Check out my thoughts on tech, life, and learning on **[my personal blog](YOUR_BLOG_LINK_HERE)**.
+*   **Thrifting:** See any good pieces? Hmu
+*   **Writing:** Check out my thoughts on tech, life, and learning on **[my personal blog](https://srcbyangel.vercel.app/)**. Any thoughts, feedback and ways to improve are welcome.
 
-⚡ *Fun fact: My favorite mathematical tool is applying implicit differentiation in Calculus—there is something beautiful about finding clarity in complex, intertwined equations.*
