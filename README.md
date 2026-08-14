@@ -4,7 +4,7 @@
 
 I am a Computer Science and Data Analytics student at Grambling State University with a passion for building intelligent systems and accessible technology. Beyond the code, I believe that technology is at its best when it serves people, empowers communities, and bridges equity gaps. I strive to be an exceptional engineer, but an even greater peer, mentor, and human.
 
-📥 **[Read My Blog](YOUR_BLOG_LINK_HERE)** | 💼 **[LinkedIn](https://linkedin.com/in/angelantwi77)** | 📧 **antwiangel77@gmail.com**
+📥 **[Read My Blog](https://srcbyangel.vercel.app/)** | 💼 **[LinkedIn](https://linkedin.com/in/angelantwi77)** | 📧 **antwiangel77@gmail.com**
 
 ---
 
