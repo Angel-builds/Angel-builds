@@ -12,7 +12,7 @@ I am a Computer Science and Data Analytics student at Grambling State University
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, C#, Java, HTML/CSS |
+| **Languages** | Python, JavaScript, C#, Java, HTML/CSS, Swift |
 | **Frameworks & Libraries** | React, Node.js, FastAPI, Flask, PyTorch, TensorFlow, Flutter |
 | **Tools & Cloud** | Git/GitHub, Docker, Firebase, GCP, Cursor, Playwright |
 
