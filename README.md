@@ -22,19 +22,13 @@ I am a Computer Science and wannabe Theatre student at Grambling State Universit
 
 ### 🎮 Microsoft — Software Developer Intern (Xbox)
 *Summer 2026 | Redmond, WA*
-*   Implemented two scalable, user-facing commerce features, improving reward visibility and conversion rates.
-*   Developed core business logic using **C#** and **React** for dynamic UI rendering and robust cross-service behavior.
-*   Partnered across engineering, design, and product management to accelerate delivery and resolve technical ambiguities.
 
 ### 🤖 Cornell University (Chambers Capital Ventures) — ML Engineering Fellow
 *May 2025 – April 2026 | Remote*
-*   Co-engineered an end-to-end NLP pipeline using **BERT embeddings** and **K-Means clustering** to generate B2B buyer personas.
-*   Built a **React** dashboard backed by **FastAPI** and containerized with **Docker** to serve scalable model predictions.
+
 
 ### 🏫 Grambling State University — IT Student Assistant
 *October 2024 – Present | Grambling, LA*
-*   Co-engineered a **MERN stack** web application to replace paper check-ins, increasing lab usage data accuracy by 50%.
-*   Provide technical support to over 100 students and faculty daily.
 
 ---
 
