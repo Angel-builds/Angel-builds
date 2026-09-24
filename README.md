@@ -8,27 +8,13 @@ I am a Computer Science and wannabe Theatre student at Grambling State Universit
 
 ---
 
-## 🛠️ Skills & Toolbox
+## Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, JavaScript, C#, Java, HTML/CSS, Swift |
 | **Frameworks & Libraries** | React, Node.js, FastAPI, Flask, PyTorch, TensorFlow, Flutter |
 | **Tools & Cloud** | Git/GitHub, Docker, Firebase, GCP, Cursor, Playwright |
-
----
-
-## 💼 Professional Experience
-
-### 🎮 Microsoft — Software Developer Intern (Xbox)
-*Summer 2026 | Redmond, WA*
-
-### 🤖 Cornell University (Chambers Capital Ventures) — ML Engineering Fellow
-*May 2025 – April 2026 | Remote*
-
-
-### 🏫 Grambling State University — IT Student Assistant
-*October 2024 – Present | Grambling, LA*
 
 ---
 
