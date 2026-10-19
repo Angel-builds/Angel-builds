@@ -1,6 +1,6 @@
 # Hi there, I'm Angel Antwi-Mensah! 👋
 
-### 🚀 Software Engineer | Machine Learning Researcher | Community Builder
+### 🚀 Software Engineer | Budding Researcher | Community Builder
 
 I am a Computer Science and wannabe Theatre student at Grambling State University. Tech's cool when it's doing cool stuff. I strive to be an exceptional engineer, but an even greater peer and human.
 
